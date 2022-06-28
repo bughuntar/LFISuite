@@ -3,5 +3,5 @@
 
 ## Installation:
 ```javascript
-sudo git clone https://github.com/D35m0nd142/LFISuite.git && sudo chmod +x *
+sudo git clone https://github.com/D35m0nd142/LFISuite.git && cd LFISuite && sudo chmod +x *
 ```
